@@ -57,7 +57,7 @@
    node cli/makefun.mjs submit --competition
    u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18 --repo-url
    https://github.com/jekglory/u-brisk-kestrel-93-one-line-one-minute-the-funniest-0346ad18
-   --commit 4b658ffeac6efcedb8080cecb5f18cdee9548b53 --title "The Summarized Deadline"
+   --commit 266647642cb3a29063e24af01364aca9e59ffe4d --title "The Summarized Deadline"
    --bundle <new transcripts.tar.gz> --keypair ~/workspace/makefun/makefun-keypair.json
    (API key via command substitution only; keypair mode 600.)
 4. Verify live stage (node cli/makefun.mjs status --submission <id>), record the
